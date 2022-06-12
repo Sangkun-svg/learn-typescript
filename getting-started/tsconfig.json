@@ -1,0 +1,9 @@
+// tsconfig reference 참고 https://www.typescriptlang.org/tsconfig
+
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true
+  }
+}
