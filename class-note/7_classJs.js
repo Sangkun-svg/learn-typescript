@@ -14,3 +14,4 @@ class Person2 {
 }
 
 const capt2 = new Person2("Capt2", 34);
+console.log("");
